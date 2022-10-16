@@ -1,5 +1,8 @@
 # API Automation Control
  API Automation Control
+
+# Proje
+Örnek json değerini dönen mock bir api oluşturarak, farklı senaryoları içeren bir otomasyon projesi oluşturunuz.
  
 # Fake API Oluşturma
  -NodeJs kurulumu yapılır.
