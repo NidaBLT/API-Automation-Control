@@ -49,5 +49,5 @@
             <version>7.1.0</version>
             <scope>test</scope>
         </dependency>
-
-
+# Amaç
+API sorgusunda farklı caseler oluşturarak test caseleri yazmaya çalıştım. Bazı noktalarda takıldım ancak 5 günlük sürede elimden geldiğince sonuç odaklı bir proje çıkarmaya çalıştım.
